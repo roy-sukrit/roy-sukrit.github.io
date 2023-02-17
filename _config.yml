@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Boris Meinardus"
-  avatar           : "Profile_pic.jpg"
+  avatar           : "Profile_pic2.png"
   bio              : "Multi-Modal Learning"
   location         : "Berlin, Germany"
   employer         : "Fraunhofer Heinrich Hertz Institute"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "BorisMeinardus"
   vine             :
   weibo            :
   xing             :
