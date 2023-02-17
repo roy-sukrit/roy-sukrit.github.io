@@ -85,8 +85,8 @@ author:
   bio              : "Multi-Modal Learning"
   location         : "Berlin, Germany"
   employer         : "TU Berlin"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "boris.meinardus@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/@borismeinardus"
+  youtube          : "https://www.youtube.com/@borismeinardus"
   wikipedia        :
 
 
