@@ -84,7 +84,7 @@ author:
   avatar           : "Profile_pic.jpg"
   bio              : "Multi-Modal Learning"
   location         : "Berlin, Germany"
-  employer         : "TU Berlin"
+  employer         : "Fraunhofer Heinrich Hertz Institute"
   pubmed           : 
   googlescholar    : 
   email            : "boris.meinardus@gmail.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sudo-Boris"
+  github           : "sudo-Boris"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/boris-meinardus-ba2302177/"
+  linkedin         : "boris-meinardus-ba2302177"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@borismeinardus"
+  youtube          : "borismeinardus"
   wikipedia        :
 
 
