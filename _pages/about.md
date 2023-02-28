@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 I'm a final year graduate student at the TU Berlin.
+I am interested in bridging vision and language modalities and assisting others on their path in the world of Machine Learning and academia.
