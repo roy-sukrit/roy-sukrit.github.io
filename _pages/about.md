@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/About.png){: .align-right}
+![Illustration of combining vision and language modalities](/images/editing-talk.png){: .align-right}
 I'm a final year graduate student at the TU Berlin.
 I am interested in bridging vision and language modalities and assisting others on their path in the world of Machine Learning and academia.
