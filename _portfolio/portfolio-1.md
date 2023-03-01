@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "RCPPO"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I implemented the [Reward Constrained Policy Optimization Paper](https://openreview.net/pdf?id=SkfrvsA9FX) by Tessler et al. into stable-baselines3 implementation of PPO. Additionally, I reproduced the original results by tracking my experiments using weights and biases. The code for this project can be found [here](https://github.com/sudo-Boris/stable-baselines3). I also wrote an article elaborating on the theory of RCPO and my results and submitted it to the ICLR Blogposts Track! You can fin the article [here](https://iclr-blogposts.github.io/staging/blog/2023/Adaptive-Reward-Penalty-in-Safe-Reinforcement-Learning/)
