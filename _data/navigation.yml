@@ -8,8 +8,8 @@ main:
     url: /portfolio/
   
   - title: "Publications"
-    # url: /publications/
-    url: https://scholar.google.es/citations?user=cTrc3x4AAAAJ&hl=en
+    url: /publications/
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
   #   url: /year-archive/
