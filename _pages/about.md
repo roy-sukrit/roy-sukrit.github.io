@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
-🔬 My research interests are in bridging vision and language modalities.
+🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
 📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
 
@@ -24,8 +24,7 @@ redirect_from:
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal. \
-(🤫 Recently, I have submitted a second one.)
+Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
