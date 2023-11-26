@@ -15,7 +15,7 @@ redirect_from:
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
@@ -34,8 +34,9 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
+Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach.
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I work on dynamic traffic flow forecasting using Graph Neural Networks.
+There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
 
 ## 📚 Teaching and Community Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
