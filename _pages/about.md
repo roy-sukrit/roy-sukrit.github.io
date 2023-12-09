@@ -34,7 +34,7 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach.
+Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
 There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
 
