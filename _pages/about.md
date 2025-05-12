@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Sukrit!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,42 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-
-
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+👨🏻‍💻 I'm an upcoming Postgraduate Researcher at TUS Athlone, Ireland.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+🔬 My research focuses on leveraging Machine Learning to generate synthetic datasets in various digital enhancement domains.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📚 I'm currently working on my Master's thesis in the field of Computer Vision and Stress Detection.
+
+📽️ I'm also interested in AI Agents, LLMs, RAGs, and general Machine Learning applications.
 
 # Selected Experience
 
 ## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+I developed an LED visualizer system — [Arduino LED Visualizer](https://github.com/roy-sukrit/Arduino-LED-Piano) — which syncs with piano notes and generates color combinations based on user input.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+The project has helped over 50 people set up their own visualizer systems, building a small community where users support each other.
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+## 📜 Research Project
+- Developed a **context-specific stress prediction system** using non-intrusive behavioral data (mouse activity, keystrokes, screen usage).
+- This approach **outperformed webcam-based detection methods by 30%**, especially for users who wear glasses.
+- Demonstrated how **daily digital behavior** can reflect mental health states in real time.
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
-
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+Feel free to check out the [repository](https://github.com/roy-sukrit/stress-detection-system).
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
-
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
-
-
-
-
-
-
-
+I have 3 years of professional experience as a **Backend Developer** at PwC (Advisory Technology) and also worked as a **Full Stack Developer** at Digital Aptech.
