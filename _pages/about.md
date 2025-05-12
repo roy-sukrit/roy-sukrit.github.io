@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of machine learning](/images/ml_pic.png){: .align-right width="300px"}
+![Illustration of machine learning](/images/ml_pic.jpg){: .align-right width="300px"}
 
 👨🏻‍💻 I'm an upcoming Postgraduate Researcher at TUS Athlone, Ireland.
 
