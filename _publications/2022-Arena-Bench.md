@@ -1,15 +1,29 @@
 ---
-title: "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments"
+title: "Building a Full Stack Web Application with Agile Methodologies (Node.js)"
 collection: publications
-permalink: /publication/2022-Arena-Bench
-excerpt: 'The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results.'
-date: 2022-10-01
-venue: 'Robotics and Automation Letters (RA-L)'
-paperurl: 'https://arxiv.org/abs/2206.05728'
-citation: 'L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.'
+permalink: /publication/2024-fullstack-agile
+excerpt: 'A detailed walkthrough of building a full stack web application using Agile principles, Node.js, and modern development tools like GitHub Projects and CI/CD pipelines.'
+date: 2024-03-15
+venue: 'Medium'
+paperurl: 'https://roysukrit78.medium.com/building-a-full-stack-web-application-with-agile-methodologies-node-js-98a843429ca5'
+citation: 'S. Roy Chowdhury (2024) "Building a Full Stack Web Application with Agile Methodologies (Node.js)", Medium.'
 ---
-The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results. The code is publicly available at [this http URL](https://github.com/ignc-research/arena-bench).
 
-[Download paper here](https://arxiv.org/abs/2206.05728)
+In this article, I explore how to develop a complete full-stack web application using Agile practices. The piece covers backend API development using Node.js and Express, managing tasks through GitHub Projects, testing with Jest, and implementing CI/CD workflows with Jenkins and SonarQube.
 
-Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
+[Read the article on Medium](https://roysukrit78.medium.com/building-a-full-stack-web-application-with-agile-methodologies-node-js-98a843429ca5)
+
+---
+title: "Bulk Posting on Facebook Groups Using Python"
+collection: publications
+permalink: /publication/2023-fb-group-bulk-post
+excerpt: 'A Python automation script that allows you to bulk-post content across multiple Facebook groups using Selenium.'
+date: 2023-11-10
+venue: 'Medium'
+paperurl: 'https://roysukrit78.medium.com/bulk-posting-on-facebook-groups-using-python-5bc0aa9dfe9a'
+citation: 'S. Roy Chowdhury (2023) "Bulk Posting on Facebook Groups Using Python", Medium.'
+---
+
+This tutorial explains how to automate content distribution across multiple Facebook groups using Python and Selenium. It highlights session handling, form input, group traversal, and practical issues around Facebook's dynamic DOM structure.
+
+[Read the article on Medium](https://roysukrit78.medium.com/bulk-posting-on-facebook-groups-using-python-5bc0aa9dfe9a)
