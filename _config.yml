@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sukrit's Homepage"
+title                    : "Sukrit"
 title_separator          : "-"
 name                     : &name "Sukrit Roy Chowdhury"
 description              : &description "personal description"
