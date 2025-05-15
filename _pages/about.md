@@ -21,16 +21,17 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Open Source Contributions
-I developed an LED visualizer system — [Arduino LED Visualizer](https://github.com/roy-sukrit/Arduino-LED-Piano) — which syncs with piano notes and generates color combinations based on user input.
+I developed an LED visualizer system — [Arduino LED Visualizer](https://github.com/roy-sukrit/Arduino-LED-Piano) — that syncs with piano notes and generates dynamic color combinations based on user input.
 
-The project has helped over 50 people set up their own visualizer systems, building a small community where users support each other.
+The project has helped over 50 people build their own visualizer setups, fostering a small but active community where users support each other.
 
 ## 📜 Research Project
 - Developed a **context-specific stress prediction system** using non-intrusive behavioral data (mouse activity, keystrokes, screen usage).
-- This approach **outperformed webcam-based detection methods by 30%**, especially for users who wear glasses.
+- This approach **outperformed webcam-based methods by 30%**, especially for users who wear glasses.
 - Demonstrated how **daily digital behavior** can reflect mental health states in real time.
+- 🏆 **Awarded Best Project – Taught Master’s** at Technological University of the Shannon.
 
-Feel free to check out the [repository](https://github.com/roy-sukrit/stress-detection-system).
+Feel free to check out the [portfolio entry](https://roy-sukrit.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-I have 3 years of professional experience as a **Backend Developer** at PwC (Advisory Technology) and also worked as a **Full Stack Developer** at Digital Aptech.
+I have 3 years of professional experience as a **Backend Developer** at PwC (Advisory Technology), and also worked as a **Full Stack Developer** at Digital Aptech.
