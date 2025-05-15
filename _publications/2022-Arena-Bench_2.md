@@ -5,7 +5,6 @@ permalink: /publication/2024-fullstack-agile
 excerpt: 'A detailed walkthrough of building a full stack web application using Agile principles, Node.js, and modern development tools like GitHub Projects and CI/CD pipelines.'
 date: 2024-03-15
 venue: 'Medium'
-paperurl: 'https://roysukrit78.medium.com/building-a-full-stack-web-application-with-agile-methodologies-node-js-98a843429ca5'
 citation: 'S. Roy Chowdhury (2024) "Building a Full Stack Web Application with Agile Methodologies (Node.js)", Medium.'
 ---
 
