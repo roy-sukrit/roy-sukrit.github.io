@@ -5,7 +5,6 @@ permalink: /publication/2025-stress-detection
 excerpt: 'A system that detects cognitive stress using keystroke dynamics, mouse movement, and webcam-based gaze tracking — all from a standard laptop, with up to 89% accuracy.'
 date: 2025-05-15
 venue: 'Medium'
-paperurl: 'https://medium.com/@sukritroy.chowdhury/how-i-built-a-non-intrusive-system-to-detect-stress-just-using-a-laptop-c6b2298ff9f6'
 citation: 'S. Roy Chowdhury (2025) "Non-Intrusive Stress Detection Using Laptop Interactions", Medium.'
 ---
 
