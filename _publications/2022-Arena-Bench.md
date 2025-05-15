@@ -1,29 +1,18 @@
 ---
-title: "Building a Full Stack Web Application with Agile Methodologies (Node.js)"
+title: "Non-Intrusive Stress Detection Using Laptop Interactions"
 collection: publications
-permalink: /publication/2024-fullstack-agile
-excerpt: 'A detailed walkthrough of building a full stack web application using Agile principles, Node.js, and modern development tools like GitHub Projects and CI/CD pipelines.'
-date: 2024-03-15
+permalink: /publication/2025-stress-detection
+excerpt: 'A system that detects cognitive stress using keystroke dynamics, mouse movement, and webcam-based gaze tracking — all from a standard laptop, with up to 89% accuracy.'
+date: 2025-05-15
 venue: 'Medium'
-paperurl: 'https://roysukrit78.medium.com/building-a-full-stack-web-application-with-agile-methodologies-node-js-98a843429ca5'
-citation: 'S. Roy Chowdhury (2024) "Building a Full Stack Web Application with Agile Methodologies (Node.js)", Medium.'
+paperurl: 'https://medium.com/@sukritroy.chowdhury/how-i-built-a-non-intrusive-system-to-detect-stress-just-using-a-laptop-c6b2298ff9f6'
+citation: 'S. Roy Chowdhury (2025) "Non-Intrusive Stress Detection Using Laptop Interactions", Medium.'
 ---
 
-In this article, I explore how to develop a complete full-stack web application using Agile practices. The piece covers backend API development using Node.js and Express, managing tasks through GitHub Projects, testing with Jest, and implementing CI/CD workflows with Jenkins and SonarQube.
+In this article, I share how I built a system to detect cognitive stress passively — without any wearables, sensors, or interrupting the user — simply by analyzing how someone interacts with their laptop.
 
-[Read the article on Medium](https://roysukrit78.medium.com/building-a-full-stack-web-application-with-agile-methodologies-node-js-98a843429ca5)
+The model leverages keystroke dynamics, mouse movement, and gaze tracking via the built-in webcam to identify signs of stress. One of the breakthroughs was the implementation of gaze detection using head pose estimation and facial landmarks, which led to a 30% improvement in accuracy, especially for users wearing glasses.
 
----
-title: "Bulk Posting on Facebook Groups Using Python"
-collection: publications
-permalink: /publication/2023-fb-group-bulk-post
-excerpt: 'A Python automation script that allows you to bulk-post content across multiple Facebook groups using Selenium.'
-date: 2023-11-10
-venue: 'Medium'
-paperurl: 'https://roysukrit78.medium.com/bulk-posting-on-facebook-groups-using-python-5bc0aa9dfe9a'
-citation: 'S. Roy Chowdhury (2023) "Bulk Posting on Facebook Groups Using Python", Medium.'
----
+The system achieved up to 89% prediction accuracy and was awarded **Best Project - Taught Master’s** 🏆.
 
-This tutorial explains how to automate content distribution across multiple Facebook groups using Python and Selenium. It highlights session handling, form input, group traversal, and practical issues around Facebook's dynamic DOM structure.
-
-[Read the article on Medium](https://roysukrit78.medium.com/bulk-posting-on-facebook-groups-using-python-5bc0aa9dfe9a)
+[Read the article on Medium](https://medium.com/@sukritroy.chowdhury/how-i-built-a-non-intrusive-system-to-detect-stress-just-using-a-laptop-c6b2298ff9f6)
