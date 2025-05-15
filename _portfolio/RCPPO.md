@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis Project: Stress Detection from Laptop Interaction"
-excerpt: "Awarded Best Project - Taught Master’s 🏆 <br/><img src='/images/stress_detection_laptop.jpg'>"
+excerpt: "Awarded Best Project - Taught Master’s 🏆 <br/><img src='/images/stress_detection_laptop.jpg' style='width: 100%; max-width: 500px; height: auto;'>"
 collection: portfolio
 ---
 
