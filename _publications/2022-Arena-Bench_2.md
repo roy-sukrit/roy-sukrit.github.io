@@ -1,11 +1,11 @@
 ---
-title: "Building a Full Stack Web Application with Agile Methodologies (Node.js)"
+title: "Building a Full Stack Web Application with Agile Methodologies "
 collection: publications
 permalink: /publication/2024-fullstack-agile
 excerpt: 'A detailed walkthrough of building a full stack web application using Agile principles, Node.js, and modern development tools like GitHub Projects and CI/CD pipelines.'
 date: 2024-03-15
 venue: 'Medium'
-citation: 'S. Roy Chowdhury (2024) "Building a Full Stack Web Application with Agile Methodologies (Node.js)", Medium.'
+citation: 'S. Roy Chowdhury (2024) "Building a Full Stack Web Application with Agile Methodologies ", Medium.'
 ---
 
 In this article, I explore how to develop a complete full-stack web application using Agile practices. The piece covers backend API development using Node.js and Express, managing tasks through GitHub Projects, testing with Jest, and implementing CI/CD workflows with Jenkins and SonarQube.
