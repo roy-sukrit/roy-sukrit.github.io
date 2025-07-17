@@ -10,11 +10,11 @@ redirect_from:
 
 ![Illustration of machine learning](/images/ml_pic.jpg){: .align-right width="300px"}
 
-👨🏻‍💻 I'm an upcoming Postgraduate Researcher at TUS Athlone, Ireland.
+👨🏻‍💻 I'm a Postgraduate Researcher at TUS Athlone, Ireland.
 
-🔬 My research focuses on leveraging Machine Learning to generate synthetic datasets in various digital enhancement domains.
+🔬 My research focuses on leveraging Deep Learning to generate synthetic datasets in various digital enhancement domains.
 
-📚 I'm currently working on my Master's thesis in the field of Computer Vision and Stress Detection.
+📚 I'm recently completed working on my Master's thesis in the field of Computer Vision and Stress Detection.
 
 📽️ I'm also interested in AI Agents, LLMs, RAGs, and general Machine Learning applications.
 
